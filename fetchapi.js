@@ -22,4 +22,6 @@ function getData() {
       fact.innerHTML = finalData[1].fact;
     });
 }
+let btn = document.getElementById("btn");
+btn.addEventListener("click", getData);
 
