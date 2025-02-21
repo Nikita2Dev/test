@@ -1,18 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// persist the data in the local storage
 let iamge = document.getElementById("img");
 let fact = document.getElementById("fact");
 getData();
